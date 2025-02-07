@@ -1,0 +1,27 @@
+
+table {
+    text-align: center;
+    table-layout: auto;
+    padding: 5px;
+}
+
+body {
+    background-color: black;
+}
+
+.flex-container {
+    display: flex;
+    background-color: #421367;
+}
+
+a.Kotaro {
+    color: white;
+}
+
+a.Chich {
+    color: #fffa8e;
+}
+
+a.Zazu {
+    color: #dbdbdb;
+}

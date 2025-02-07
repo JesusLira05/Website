@@ -1,0 +1,53 @@
+h1 {
+    color: white;
+    background-color: black;
+
+    margin-right: 1000px;
+
+    text-align: center;
+}
+
+body {
+    background-image: url(../images/uni.png);
+    background-repeat: no-repeat;
+
+    background-size: /*cover*/ 1920px 1080px;
+}
+
+.genBox {
+    color: white;
+    background-image: linear-gradient(to right, black, #2D2D2D, black);
+    background-color: black;
+
+    margin-right: 1000px;
+
+
+    text-align: center;
+
+    
+}
+
+.borderProps {
+    border-color: #725F23;
+    border-style: ridge;
+    border-width: 4px;
+}
+
+.container{
+    text-align: center;
+
+}
+
+ul {
+
+    text-align: left;
+    display: inline-block;
+}
+
+#txt {
+    color: #FFD555;
+}
+
+a {
+    color:#FFD555;
+}
